@@ -22,4 +22,4 @@
 <br>
 ![Eclipse](https://img.shields.io/badge/-Eclipse-2C2255?&logo=Eclipse&logoColor=ffffff)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hong-yura&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chungha-kang&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
